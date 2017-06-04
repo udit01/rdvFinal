@@ -10,8 +10,8 @@ function detectmob() {
    }
 }
 
-// if (detectmob())
-// {
-//   console.log("video removed");
-//   video.remove();
-// }
+if (detectmob())
+{
+  console.log("video removed");
+  video.remove();
+}
