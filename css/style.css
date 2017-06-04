@@ -1,51 +1,98 @@
 body{
-
+    /*background-image: url(images/Reference-01.png);*/
+    /*To change the above line afterwords to give only the background*/
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: lightblue;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    background: #000;
+    z-index: -2;
 }
 video{
-
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translateX(-50%) translateY(-50%);
+    /*background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;*/
+    background-size: cover;
+    transition: 1s opacity;
+    opacity:1;
 }
 
 #upper_overlay{
-
+    position: fixed;
+    top:0%;
+    width: 100%;
 }
 #lower_overlay{
-
+    position: fixed;
+    bottom:0%;
+    width: 100%;
 }
 #end_logo{
+    position: fixed;
+    top:5%;
+    left:30%;
+    max-width: 40%;
 
 }
 #end_text{
+    position: fixed;
+    top:0%;
+    left:10%;
+    max-width: 80%;
 
 }
 
 .navigation_buttons{
-
+    position: fixed;
+    top:60%;
+    max-width: 30%;
 }
 .bottom_icons{
-
+    position: fixed;
+    top:80%;
+    max-width: 20%;
 }
 
 #aftermovie{
-
+    left:23%;
 }
 #brochure{
+    left:43%;
 
 }
 #contact{
+    left:63%;
 
 }
 
 #fb_icon{
+    left:42%;
 
 }
 #twitter_icon{
+    left:47%;
 
 }
 #insta_icon{
+    left:52%;
 
 }
 
 #disclaimer{
-    
+    position: fixed;
+    top:90%;
+    left:40%;
+    max-width: 100%;
 }
 
