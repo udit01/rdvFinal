@@ -27,7 +27,7 @@ video{
     transition: 1s opacity;
     opacity:1;
 }
-
+/*
 #upper_overlay{
     position: fixed;
     top:0%;
@@ -94,5 +94,5 @@ video{
     top:90%;
     left:40%;
     max-width: 100%;
-}
+}*/
 
