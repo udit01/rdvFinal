@@ -5,11 +5,11 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: lightblue;
+    /*background-color: lightblue;*/
     height: 100%;
     overflow: hidden;
     margin: 0;
-    background: #000;
+    background-color:#000000;
     z-index: -2;
 }
 video{
@@ -31,12 +31,12 @@ video{
 #upper_overlay{
     position: fixed;
     top:0%;
-    width: 100%;
+    min-width: 100%;
 }
 #lower_overlay{
     position: fixed;
     bottom:0%;
-    width: 100%;
+    min-width: 100%;
 }
 #end_logo{
     position: fixed;
