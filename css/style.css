@@ -28,7 +28,7 @@ video{
     opacity:1;
 }
 .product .img-responsive {
-    margin: 0 auto;
+    margin: auto;
 }
 
 
@@ -45,8 +45,39 @@ video{
 
 #brochure{
     background-position:center center ;
-    position: inherit;
+    margin:auto;
+}
 
+#aftermovie{
+    background-position:center center ;
+    margin:auto;
+}
+
+#contact{
+    background-position:center center ;
+    margin:auto;
+
+}
+
+#fb_icon{
+    background-position:center center ;
+    margin:auto;
+
+}
+#twitter_icon{
+    background-position:center center ;
+    margin:auto;
+
+}
+#insta_icon{
+    background-position:center center ;
+    margin:auto;
+
+}
+
+#disclaimer{
+    position: inherit;
+    width: 100%;
 }
 /*
 #end_logo{
@@ -75,32 +106,5 @@ video{
     max-width: 20%;
 }
 
-#aftermovie{
-    left:23%;
-}
-
-#contact{
-    left:63%;
-
-}
-
-#fb_icon{
-    left:42%;
-
-}
-#twitter_icon{
-    left:47%;
-
-}
-#insta_icon{
-    left:52%;
-
-}
-
-#disclaimer{
-    position: fixed;
-    top:90%;
-    left:40%;
-    max-width: 100%;
-}*/
+*/
 
