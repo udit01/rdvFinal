@@ -27,6 +27,10 @@ video{
     transition: 1s opacity;
     opacity:1;
 }
+.product .img-responsive {
+    margin: 0 auto;
+}
+
 /*
 #upper_overlay{
     position: fixed;
