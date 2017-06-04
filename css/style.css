@@ -6,10 +6,10 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-color: lightblue;
+    background-image: url('assets/images/background-01.jpg');
     height: 100%;
     overflow: hidden;
     margin: 0;
-    background: #000;
     z-index: -2;
 }
 video{
@@ -31,17 +31,24 @@ video{
     margin: 0 auto;
 }
 
-/*
+
 #upper_overlay{
     position: fixed;
     top:0%;
-    width: 100%;
+    min-width: 100%;
 }
 #lower_overlay{
     position: fixed;
     bottom:0%;
-    width: 100%;
+    min-width: 100%;
 }
+
+#brochure{
+    background-position:center center ;
+    position: inherit;
+
+}
+/*
 #end_logo{
     position: fixed;
     top:5%;
@@ -71,10 +78,7 @@ video{
 #aftermovie{
     left:23%;
 }
-#brochure{
-    left:43%;
 
-}
 #contact{
     left:63%;
 
