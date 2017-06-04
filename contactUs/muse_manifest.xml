@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rdv-iitd.com/Contact_Us" resolutions="1x,2x" timestamp="1496582237736">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rdv-iitd.com/Contact_Us" resolutions="1x,2x" timestamp="1496591326659">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="62740233" ref="index"/>
-    <file name="index.css" crc="136259381" ref="index"/>
+    <file name="master_a-master.css" crc="447697113" ref="index"/>
+    <file name="index.css" crc="476756865" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -68,5 +68,5 @@
     </folder>
     <file name="index.html" crc="4281793063" seo="true" mt="1496582120609" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4158613643" seo="true" mt="1496582120572" redirect="true"/>
+  <file name="index.html" crc="249590220" seo="true" mt="1496591305476" redirect="true"/>
 </manifest>
