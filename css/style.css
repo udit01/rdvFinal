@@ -10,7 +10,7 @@ body{
     background-color: lightblue;
     background-image: url('background-01.jpg');
     height: 100%;
-    /*overflow: hidden;*/
+    overflow: hidden;
     margin: 0;
     z-index: -2;
 }
