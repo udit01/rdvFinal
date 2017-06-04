@@ -5,11 +5,11 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    /*background-color: lightblue;*/
+    background-color: lightblue;
+    background-image: url('assets/images/background-01.jpg');
     height: 100%;
     overflow: hidden;
     margin: 0;
-    background-color:#000000;
     z-index: -2;
 }
 video{
@@ -27,6 +27,10 @@ video{
     transition: 1s opacity;
     opacity:1;
 }
+.product .img-responsive {
+    margin: 0 auto;
+}
+
 
 #upper_overlay{
     position: fixed;
@@ -38,6 +42,13 @@ video{
     bottom:0%;
     min-width: 100%;
 }
+
+#brochure{
+    background-position:center center ;
+    position: inherit;
+
+}
+/*
 #end_logo{
     position: fixed;
     top:5%;
@@ -67,10 +78,7 @@ video{
 #aftermovie{
     left:23%;
 }
-#brochure{
-    left:43%;
 
-}
 #contact{
     left:63%;
 
@@ -94,5 +102,5 @@ video{
     top:90%;
     left:40%;
     max-width: 100%;
-}
+}*/
 
