@@ -1,0 +1,72 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="rdv-iitd.com/Contact_Us" resolutions="1x,2x" timestamp="1496582237736">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="62740233" ref="index"/>
+    <file name="index.css" crc="136259381" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="rdv.gif" crc="167002393" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="rdv_2x.gif" crc="167002393" seo="true" ref="phone>index:tablet>index"/>
+    <file name="u567-10.png" crc="3938731322" ref="phone>index"/>
+    <file name="u567-10_2x.png" crc="4149640559" ref="phone>index"/>
+    <file name="u566-14.png" crc="4213738076" ref="phone>index"/>
+    <file name="u566-14_2x.png" crc="271482421" ref="phone>index"/>
+    <file name="u568-13.png" crc="4207660842" ref="phone>index"/>
+    <file name="u568-13_2x.png" crc="419413460" ref="phone>index"/>
+    <file name="u565-13.png" crc="4101886926" ref="phone>index"/>
+    <file name="u565-13_2x.png" crc="4235803665" ref="phone>index"/>
+    <file name="facebook-01.png" crc="3765241513" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="facebook-01_2x.png" crc="3906779146" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="twitter button-01.png" crc="464885161" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="twitter button-01_2x.png" crc="394697448" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="instagram-01.png" crc="4221114152" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="instagram-01_2x.png" crc="4026227113" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u592-5.png" crc="4194319613" ref="phone>index"/>
+    <file name="u592-5_2x.png" crc="4048301939" ref="phone>index"/>
+    <file name="background.jpg" crc="3988109213" ref="phone>index:tablet>index:index"/>
+    <file name="u664-10.png" crc="3938731322" ref="tablet>index"/>
+    <file name="u664-10_2x.png" crc="4149640559" ref="tablet>index"/>
+    <file name="u669-14.png" crc="4213738076" ref="tablet>index"/>
+    <file name="u669-14_2x.png" crc="271482421" ref="tablet>index"/>
+    <file name="u675-13.png" crc="4207660842" ref="tablet>index"/>
+    <file name="u675-13_2x.png" crc="419413460" ref="tablet>index"/>
+    <file name="u674-13.png" crc="4101886926" ref="tablet>index"/>
+    <file name="u674-13_2x.png" crc="4235803665" ref="tablet>index"/>
+    <file name="u663-5.png" crc="4194319613" ref="tablet>index"/>
+    <file name="u663-5_2x.png" crc="4048301939" ref="tablet>index"/>
+    <file name="u133-10.png" crc="507283881" ref="index"/>
+    <file name="u133-10_2x.png" crc="4279774569" ref="index"/>
+    <file name="u188-14.png" crc="3963285655" ref="index"/>
+    <file name="u188-14_2x.png" crc="281367096" ref="index"/>
+    <file name="u191-13.png" crc="4090635820" ref="index"/>
+    <file name="u191-13_2x.png" crc="441760642" ref="index"/>
+    <file name="u194-13.png" crc="4212737169" ref="index"/>
+    <file name="u194-13_2x.png" crc="4116563798" ref="index"/>
+    <file name="u176-5.png" crc="4194319613" ref="index"/>
+    <file name="u176-5_2x.png" crc="4048301939" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="425749305" ref="tablet>index"/>
+      <file name="index.css" crc="49225072" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4124674956" seo="true" mt="1496582171182" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="207275819" ref="phone>index"/>
+      <file name="index.css" crc="4240537040" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4281793063" seo="true" mt="1496582120609" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4158613643" seo="true" mt="1496582120572" redirect="true"/>
+</manifest>
