@@ -78,6 +78,14 @@ video{
     position: inherit;
     width: 100%;
 }
+
+.enlarge{
+    transition: all .2s ease-in-out;
+}
+
+.enlarge:hover{
+    transform: scale(1.1);
+}
 /*
 #end_logo{
     position: fixed;
